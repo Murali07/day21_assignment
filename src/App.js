@@ -6,7 +6,7 @@ import "./App.css";
 export default function App() {
   const movieList = [
     {
-      movie_poster: "https://m.media-amazon.com/images/M/MV5BNmU1OTYzYzAtMDcyOS00MDI0LTg2ZmQtYTEyMDdmMmQ0MjY5XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpg",
+      movie_poster: "https://media.senscritique.com/media/000019817904/source_big/Master.jpg",
       movie_name : "Master",
       movie_rating: "7.3",
       movie_summary: "An alcoholic professor is enrolled to teach at a juvenile facility, unbeknownst to him. He soon clashes with a ruthless gangster, who uses the children as scapegoats for his crimes.",
